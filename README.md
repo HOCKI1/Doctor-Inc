@@ -1,5 +1,5 @@
 # Privacy policy
-----------------------
+
 # Terms of service
 1. The term “personal information” used in this document is defined as any information that identifies or can be used to identify, contact or search for the person to whom such information relates. The personal information we collect will be the subject of this privacy policy, as amended from time to time.
 2. We do not ask for your email address, phone number or any information about you.
